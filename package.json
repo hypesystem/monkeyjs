@@ -1,0 +1,22 @@
+{
+  "name": "monkeyjs",
+  "version": "0.0.1",
+  "description": "Random bits that are useful in javascript",
+  "main": "monkey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hypesystem/monkeyjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "helpers"
+  ],
+  "author": "hypesystem",
+  "bugs": {
+    "url": "https://github.com/hypesystem/monkeyjs/issues"
+  },
+  "homepage": "https://github.com/hypesystem/monkeyjs"
+}

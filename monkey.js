@@ -11,7 +11,7 @@ var monkey = {
     var strs = [];
     var buildingStr = "";
     for(var i = 0; i < str.length; i++) {
-      if(i % chunkSize == 0) {
+      if(i % chunkSize == 0 && i != 0) {
         strs.push(buildingStr);
 	buildingStr = "";
       }
